@@ -1,0 +1,13 @@
+title: Yutaro Hayakawa
+email: yhayakawa3720@gmail.com
+description: >-
+  Yutaro Hayakawa's personal page. Opinions are my own.
+baseurl: ""
+url: "https://YutaroHayakawa.github.io"
+twitter_username: YutaroHayakawa
+github_username:  YutaroHayakawa
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
