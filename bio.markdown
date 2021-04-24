@@ -5,9 +5,9 @@ permalink: /bio/
 ---
 
 I am a software engineer at LINE Corporation who is working for developing
-load balancer service of in-house cloud infrastracture. Before join to the
-LINE, I was a master student of Keio University. My primary research topic
-was acceleration of L7 proxy with emerging programmable dataplane technology.
+[load balancer service](https://speakerdeck.com/line_devday2019/software-engineering-that-supports-line-original-lbaas)
+of in-house cloud infrastracture. Before join to the LINE, I was a master student of Keio University.
+My primary research topic was acceleration of [L7 proxies with emerging programmable dataplane technology](https://www.usenix.org/conference/nsdi21/presentation/hayakawa).
 
 ## Papers
 
@@ -46,3 +46,14 @@ Yutaro Hayakawa, Lars Eggert, Michio Honda, Douglas Santry, ACM Symposium on Clo
 **[eBPF Implementation for FreeBSD](https://papers.freebsd.org/2018/bsdcan/hayakawa-ebpf_implementation_for_freebsd/)** at BSDCan 2018
 
 **Full list: [Speaker Deck](https://speakerdeck.com/yutarohayakawa)**
+
+## Employment and Education
+
+<table>
+<tr><td>2019 Apr - now</td><td>Software Engineer at LINE Corporation</td></tr>
+<tr><td>2019 Mar</td><td>Master of Media and Governance, Keio University, Japan</td></tr>
+<tr><td>2018 May - 2018 Aug</td><td><a href="https://summerofcode.withgoogle.com/archive/2018/projects/6624189331013632">Google Summer of Code 2018 student</a></td></tr>
+<tr><td>2017 Oct - 2018 Mar</td><td>Student Intern at NEC Laboratories Europe GmbH</td></tr>
+<tr><td>2017 Mar</td><td>Bachelor of Policy Management, Keio University, Japan</td></tr>
+<tr><td>2016 Jun - 2016 Dec</td><td>Research Assistant at NetApp Deutschland GmbH</td></tr>
+</table>
